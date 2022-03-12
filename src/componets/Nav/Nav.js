@@ -16,7 +16,7 @@ const Nav = () => {
           <a className="nav-link" aria-current="page" href="#">Inicio</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Bloge</a>
+          <a className="nav-link" href="#">Bloga</a>
         </li>
         <li className="nav-item">
           <a className="nav-link">Contactos</a>
