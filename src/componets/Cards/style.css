@@ -1,0 +1,9 @@
+.caja{
+    height: auto;
+    background-color: rgb(191, 204, 15);
+    width: 100%;
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+}
